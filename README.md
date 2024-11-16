@@ -1,4 +1,4 @@
-
+# Link for my site =>   https://qrgeneratorbysaikrishna.netlify.app/
 # 🚀 QR Code Generator
 
 Welcome to the **QR Code Generator** project! This is a simple and sleek React-based web app that allows you to generate QR codes for any URL you input. Perfect for quickly sharing links or generating codes for your projects. 📱🔗
